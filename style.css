@@ -32,7 +32,11 @@ margin: 0 16px;
     backgroud-imagem: linear-gradient(#424E61, #4EBFE9);
     color: white;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
-.escola-div-conteudo{
+.mercado-div-conteudo{
     whith: 35%;
 }
+
